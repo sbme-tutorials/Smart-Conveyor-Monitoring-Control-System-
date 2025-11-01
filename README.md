@@ -72,7 +72,7 @@ It demonstrates key embedded system functionalities such as real-time speed meas
 
 ### 4. 🎥 Demonstration
 
-<video src="https://github.com/user-attachments/assets/a957ba6e-2248-4abb-b364-6d6b64958bea" controls autoplay muted loop width="600"></video>
+<video src="https://github.com/user-attachments/assets/29352096-1593-499c-a323-a307811fce9b" controls autoplay muted loop width="600"></video>
 
 > 🎯 This demo showcases the full simulation in Proteus — including conveyor speed measurement, motor control, object detection, and emergency stop functionalities.
 
